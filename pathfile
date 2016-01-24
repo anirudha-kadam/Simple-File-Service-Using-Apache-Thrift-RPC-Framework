@@ -1,0 +1,3 @@
+export BASE="/home/yaoliu/src_code/local/bin"
+export LD_LIBRARY_PATH="/home/yaoliu/src_code/local/lib"
+export PATH=$PATH:$BASE
